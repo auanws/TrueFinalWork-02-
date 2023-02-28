@@ -3,7 +3,7 @@
         {
             "id":"00",
             "name":"Purina One",
-            "price":"฿433",
+            "price":"",
             "image":"https://backend.tops.co.th/media//catalog/product/8/8/8850127004847_x2_14-03-2022.jpg"
         },
         {
@@ -35,7 +35,7 @@
         {
             "id":"10",
             "name":"วิตามินบำรุง",
-            "price":"฿17",
+            "price":"",
             "image":"https://cf.shopee.co.th/file/sg-11134201-22120-jt6s5kfqyqlva1"
         },
         {
@@ -67,7 +67,7 @@
         {
             "id":"20",
             "name":"สายจูงแมว",
-            "price":"฿150",
+            "price":"",
             "image":"https://img10.jd.co.th/n0/jfs/t7/253/9800685561/170710/9682b434/615d4841Nd576fa18.jpg!q70.jpg"
         },
         {
